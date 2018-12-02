@@ -1,0 +1,161 @@
+body{
+  display:flex;
+  justify-content: center;
+  font-family:'Exo 2', sans-serif;
+  font-size: 13px;
+  color:#1C1C1C;
+}
+
+.capa1{
+justify-content:center;
+width: auto;
+border: 1px solid #ccc;
+width: 510px;
+height:800px;
+margin-left: 20px;
+padding:10px;
+font-family:'Exo 2', sans-serif;
+color:#1C1C1C;
+}
+
+.Principal{
+  width: 450px;
+  height:140px;
+  background:#BDBDBD;
+  margin-left: 20px;
+  padding:10px;
+}
+.cvlinkedin{
+  width: 470px;
+  margin-left: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+.logolinkedin{
+  width: 15%;
+  margin-left: 50px;
+}
+.linkalinkedin{
+  padding: 12px 5px 12px;
+}
+a.nounderline:link{
+  text-decoration:none;
+  color: white;
+}
+
+h1 {
+  font-weight: bold;
+	font-size: 1.8em;
+	line-height: 1.3em;
+	margin: 20px;
+	font-family: Cinzel, serif;
+	text-align: center;
+	color:white;
+}
+
+h2{
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 0.1em;
+  font-family: Cinzel, serif;
+  color:white;
+  text-align: center;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 1em;
+  line-height: 1.3em;
+  margin-top: 20px;
+  font-family: Cinzel, serif;
+  text-align: center;
+  color:white;
+}
+
+.Titulo{
+  width: 450px;
+  height:20px;
+  background:#1C1C1C;
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.competencia{
+  font-size: 11px;
+  width: 470px;
+  margin-left: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.titcompetencia{
+  font-weight: bold;
+  width: 22%;
+  padding-letf: 10px;
+}
+
+.texttitulo{
+  text-align: justify;
+  width: 78%;
+}
+
+.Periodoexperiencia{
+  font-size: 11px;
+  width: 470px;
+  margin-left: 20px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.Periodos{
+  font-weight: bold;
+  width: 22%;
+  padding-letf: 10px;
+}
+.textexperiencia{
+  text-align: justify;
+  width: 60%;
+}
+.logoexperiencia{
+  width: 18%;
+}
+.logo{
+  width:100%;
+}
+
+.capa2{
+justify-content:center;
+width: auto;
+width: 300px;
+height:800px;
+background:#BDBDBD;
+margin-left: 20px;
+padding:10px;
+color:white;
+}
+
+.foto {
+  display:block;
+  margin:auto;
+  width: 40%;
+  height: 40%;
+}
+
+.textsobremi{
+  text-align: justify;
+  padding: 0px 20px 0px 20px;
+}
+
+.contacto{
+  text-align: center;
+  width: 300px;
+
+}
+
+.icono {
+  display:block;
+  margin:auto;
+  width: 15%;
+  height: 15%;
+}
