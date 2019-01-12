@@ -1,0 +1,102 @@
+@media only screen and (min-width: 600px) {
+  .Principal{
+    width: 90%;
+    height:90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:10px;
+
+  }
+
+.h1{
+text-align: center;
+font-family: Cinzel, serif;
+font-weight: bold;
+
+
+}
+
+
+  .div1{
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+
+  }
+
+
+.div2{
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+}
+
+
+.div3{
+
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+
+}
+
+  .fondoprincipal{
+    background-color: #F2F2F2;
+    width: 100%;
+    height:100%;
+  }
+
+@media (min-width: 768px) {
+  .Principal{
+    width: 90%;
+    height:90%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:10px;
+
+  }
+
+.h1{
+text-align: center;
+font-family: Cinzel, serif;
+font-weight: bold;
+
+
+}
+
+
+  .div1{
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+
+  }
+
+
+
+  .Titulo{
+    width: 450px;
+    height:20px;
+    background:#1C1C1C;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+  }
+
+
+.div2{
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+}
+
+
+.div3{
+
+    margin-bottom: 10px;
+    background-color:#BDBDBD;
+
+}
+
+  .fondoprincipal{
+    background-color: #F2F2F2;
+    width: 100%;
+    height:100%;
+  }
+
+}
